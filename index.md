@@ -1,14 +1,14 @@
-## Champions of Avan - Privacy Policy
+## Vendir: Plague of Lies - Privacy Policy
 
 **PRIVACY POLICY**
 
 By using our Services you are agreeing to the following Privacy Policy.
 
-Effective as of: December 16th, 2020.
+Effective as of: October 16th, 2022.
 
 1. Introduction
 
-(1) Early Morning Studio AB (&quot;Company&quot; or &quot;We&quot;) respects your privacy and is committed to protecting it through our compliance with this policy. We are also committed to protecting your privacy in accordance with the principles laid out in the applicable legislation. This policy describes the types of information we may collect from you or that you may provide when you use our website, applications or services, including, without limitation, the game &quot;Champions of Avan&quot; (our &quot;Service&quot; or &quot;Website&quot;) and our practices for collecting, using, maintaining, protecting, and disclosing that information. This policy applies to information we collect: (a) on this Service; and (b) in email, text, and other electronic messages between you and this Service. This policy does not apply to any information collected by: (a) us offline or through any other means, including on any other website or application operated by Company or any third party (including our affiliates or subsidiaries); and (b) any third party, including through any application or content that may link to or be accessible from or in the Services.
+(1) Early Morning Studio AB (&quot;Company&quot; or &quot;We&quot;) respects your privacy and is committed to protecting it through our compliance with this policy. We are also committed to protecting your privacy in accordance with the principles laid out in the applicable legislation. This policy describes the types of information we may collect from you or that you may provide when you use our website, applications or services, including, without limitation, the game &quot;Vendir: Plague of Lies&quot; (our &quot;Service&quot; or &quot;Website&quot;) and our practices for collecting, using, maintaining, protecting, and disclosing that information. This policy applies to information we collect: (a) on this Service; and (b) in email, text, and other electronic messages between you and this Service. This policy does not apply to any information collected by: (a) us offline or through any other means, including on any other website or application operated by Company or any third party (including our affiliates or subsidiaries); and (b) any third party, including through any application or content that may link to or be accessible from or in the Services.
 
 (2) Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Service. By accessing or using this Service, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Service after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
@@ -53,8 +53,6 @@ Effective as of: December 16th, 2020.
 (2) Among content and applications served by third-parties, we may use, without limitation, the following services:
 
 (a) GameAnalytics. _Please visit their website for further information on their privacy practices -_ _gameanalytics.com/privacy__._
-
-(b) GameSparks. _Please visit their website for further information on their privacy practices -_ _gamesparks.com/privacy-policy/_
 
 (c) Slack. _Please visit their website for further information on their privacy practices -_ _slack.com/privacy-policy_
 
@@ -141,4 +139,4 @@ This Privacy Policy and any dispute arising hereunder will be governed by the la
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:
 
 Early Morning Studio AB
-Sveavägen 9, 111 57, Stockholm, Sweden
+Drottninggatan 18, 803 20, Gävle, Sweden
