@@ -140,3 +140,5 @@ To ask questions or comment about this privacy policy and our privacy practices,
 
 Early Morning Studio AB
 Drottninggatan 18, 803 20, Gävle, Sweden
+
+All other feedback, comments, requests for technical support and other communications relating to the Service should be directed to: support@earlymorningstudio.com.
